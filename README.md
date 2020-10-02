@@ -56,6 +56,5 @@ While Matplotlib is a robust solution for various problems, Seaborn utilizes mor
 
 #### Scatterplots
 
-
-
+A scatterplot is a type of data display that shows the relationship between two numerical variables. Each member of the dataset gets plotted as a point whose x-y coordinates relates to its values for the two variables.
 
